@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/arria-react/static/css/main.a617e044.chunk.css",
-    "main.js": "/arria-react/static/js/main.6e9410fd.chunk.js",
-    "main.js.map": "/arria-react/static/js/main.6e9410fd.chunk.js.map",
+    "main.js": "/arria-react/static/js/main.d1c7c3a0.chunk.js",
+    "main.js.map": "/arria-react/static/js/main.d1c7c3a0.chunk.js.map",
     "runtime-main.js": "/arria-react/static/js/runtime-main.acc6195b.js",
     "runtime-main.js.map": "/arria-react/static/js/runtime-main.acc6195b.js.map",
     "static/js/2.893c1fe6.chunk.js": "/arria-react/static/js/2.893c1fe6.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.acc6195b.js",
     "static/js/2.893c1fe6.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.6e9410fd.chunk.js"
+    "static/js/main.d1c7c3a0.chunk.js"
   ]
 }
